@@ -1,3 +1,9 @@
+📖 Extended Overview
+
+Secure Toolkit is an open‑source Java library designed to simplify secure client/server workflows.
+It provides modular components for authentication, encryption, and maintainable architectures, with usability and accessibility at its core.
+Built by and for the community, Secure Toolkit evolves through collaboration, mentoring, and shared best practices.
+
 📦 Secure Toolkit — Installation & Usage
 
 Add Dependency
